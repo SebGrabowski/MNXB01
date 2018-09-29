@@ -1,2 +1,2 @@
 # MNXB01
-Course at the Lund University, 2018.
+Course at Lund University, 2018.
